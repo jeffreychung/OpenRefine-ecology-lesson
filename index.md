@@ -43,16 +43,16 @@ in working with {{page.domain %}} data in {{page.topic %}}.
 ## Lessons:
 
 
-1. [Getting Started with OpenRefine](00-getting-started.html)
-2. [Working with OpenRefine - faceting, clustering & splitting](01-working-with-openrefine.html)
-3. [Filtering, Excluding and Sorting](02-filter-exclude-sort.html)
-4. [Examining Numeric Data](03-numbers.html)
-5. [Scripts](04-scripts.html)
-6. [Saving and Exporting Projects and Files](05-save-export.html)
+1. [Getting Started with OpenRefine](00-getting-started.md)
+2. [Working with OpenRefine - faceting, clustering & splitting](01-working-with-openrefine.md)
+3. [Filtering, Excluding and Sorting](02-filter-exclude-sort.md)
+4. [Examining Numeric Data](03-numbers.md)
+5. [Scripts](04-scripts.md)
+6. [Saving and Exporting Projects and Files](05-save-export.md)
 
 #### Optional
-- [Using Services with OpenRefine](06-services.html)
-- [Other Resources](07-resources.html)
+- [Using Services with OpenRefine](06-services.md)
+- [Other Resources](07-resources.md)
 
 ## Data
 
