@@ -17,23 +17,8 @@ status: Teaching
 <!-- THE LESSON INFORMATION -->
 
 
-Data Carpentry {{ page.topic }} for {{ page.domain }}
+Data Carpentry - Open Refine Lesson
 =======
-
-Data Carpentry's aim is to teach researchers basic concepts, skills,
-and tools for working more effectively with data.
-The lessons below were designed for those interested
-in working with {{page.domain %}} data in {{page.topic %}}.
-
-
-**Content Contributors: {{page.contributors | join: ', ' %}}**
-
-
-**Lesson Maintainers: {{page.maintainers | join: ', ' %}}**
-
-
-**Lesson status: {{ page.status }}**
-
 <!--
   [Information on Lesson Status Categories]()
 -->
@@ -41,7 +26,6 @@ in working with {{page.domain %}} data in {{page.topic %}}.
 <!-- ###### INDEX OF LESSONS ON THIS TOPIC ###### -->
 
 ## Lessons:
-
 
 1. [Getting Started with OpenRefine](00-getting-started.md)
 2. [Working with OpenRefine - faceting, clustering & splitting](01-working-with-openrefine.md)
@@ -53,10 +37,6 @@ in working with {{page.domain %}} data in {{page.topic %}}.
 #### Optional
 - [Using Services with OpenRefine](06-services.md)
 - [Other Resources](07-resources.md)
-
-## Data
-
-Data files for the lesson are available here: [{{page.dataurl %}}]({{page.dataurl %}})
 
 
 ### Requirements
