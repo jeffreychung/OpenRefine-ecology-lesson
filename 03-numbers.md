@@ -62,4 +62,4 @@ We can examine one pair of columns by clicking on its square in the **Scatterplo
 > Redo the **> Text filter** on **scientificName** to reduce to **bai**.
 > Notice the change in the scatterplot. It might be easier to see if you click **export plot** to put it on a new browser tab.
 
-Previous: [Filtering, Excluding and Sorting](02-filter-exclude-sort.html)  Next: [Scripts from OpenRefine](04-scripts.html)
+Previous: [Filtering, Excluding and Sorting](02-filter-exclude-sort.md)  Next: [Scripts from OpenRefine](04-scripts.md)
