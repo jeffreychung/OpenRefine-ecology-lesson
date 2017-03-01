@@ -48,4 +48,4 @@ spreadsheet program
 or imported into programs like R or Python.
 
 
-Previous: [Scripts](04-scripts.html) Optional Next: [Services in OpenRefine](06-services.html)
+Previous: [Scripts](04-scripts.md) Optional Next: [Services in OpenRefine](06-services.md)
