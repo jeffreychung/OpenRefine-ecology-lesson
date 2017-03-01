@@ -29,5 +29,5 @@ minutes: .
 
 To run these steps on a new dataset, import the new dataset into Refine, open the Extract / Apply section, paste in the .txt file, click Apply.
 
-Previous:  [Examining Numeric Data](03-numbers.html)  Next: [Saving and Exporting files and projects](05-save-export.html)
+Previous:  [Examining Numeric Data](03-numbers.md)  Next: [Saving and Exporting files and projects](05-save-export.md)
 
