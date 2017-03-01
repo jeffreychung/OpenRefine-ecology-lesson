@@ -39,4 +39,4 @@ There are more advanced uses of Open Refine, such as bringing in column or cell 
 >
 > Visit one of these sites and share what you find with another person.
 
-Optional Previous: [Services in OpenRefine](06-services.html)
+Optional Previous: [Services in OpenRefine](06-services.md)
